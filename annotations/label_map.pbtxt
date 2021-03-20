@@ -1,0 +1,216 @@
+item {
+    id: 1
+    name: 'TextView'
+}
+
+item {
+    id: 2
+    name: 'EditText'
+}
+
+item {
+    id: 3
+    name: 'Button'
+}
+
+item {
+    id: 4
+    name: 'Image'
+}
+
+item {
+    id: 5
+    name: 'Fab'
+}
+
+item {
+    id: 6
+    name: 'Icon'
+}
+
+item {
+    id: 7
+    name: 'AppBar'
+}
+
+item {
+    id: 8
+    name: 'ActionButton'
+}
+
+item {
+    id: 9
+    name: 'CheckBox'
+}
+
+item {
+    id: 10
+    name: 'RadioButton'
+}
+
+item {
+    id: 11
+    name: 'RadioGroup'
+}
+
+item {
+    id: 12
+    name: 'Switch'
+}
+
+item {
+    id: 13
+    name: 'CardView'
+}
+
+item {
+    id: 14
+    name: 'ListView'
+}
+
+item {
+    id: 15
+    name: 'ScrollView'
+}
+
+item {
+    id: 16
+    name: 'IconButton'
+}
+
+item {
+    id: 17
+    name: 'ImageButton'
+}
+
+item {
+    id: 18
+    name: 'RoundedImage'
+}
+
+item {
+    id: 19
+    name: 'BottomNavBar'
+}
+
+item {
+    id: 20
+    name: 'BackButton'
+}
+
+item {
+    id: 21
+    name: 'CloseButton'
+}
+
+item {
+    id: 22
+    name: 'Tab'
+}
+
+item {
+    id: 23
+    name: 'RatingBar'
+}
+
+item {
+    id: 24
+    name: 'Layout'
+}
+
+item {
+    id: 25
+    name: 'BottomNavItems'
+}
+
+item {
+    id: 26
+    name: 'MainLayout'
+}
+
+
+item {
+    id: 27
+    name: 'HorizontalListView'
+}
+
+item {
+    id: 28
+    name: 'VerticalListView'
+}
+
+
+item {
+    id: 29
+    name: 'TabItem'
+}
+
+item {
+    id: 30
+    name: 'DrawerLayout'
+}
+
+item {
+    id: 31
+    name: 'DrawerToggleButton'
+}
+
+item {
+    id: 32
+    name: 'ComboBox'
+}
+
+item {
+    id: 33
+    name: 'GridListView'
+}
+
+item {
+    id: 34
+    name: 'ScrollBar'
+}
+
+
+item {
+    id: 35
+    name: 'Logo'
+}
+
+item {
+    id: 36
+    name: 'Slider'
+}
+
+
+item {
+    id: 37
+    name: 'Chips'
+}
+
+item {
+    id: 38
+    name: 'Keyboard'
+}
+
+item {
+    id: 39
+    name: 'MultiLineText'
+}
+
+item {
+    id: 40
+    name: 'Video'
+}
+
+item {
+    id: 41
+    name: 'Map'
+}
+
+
+item {
+    id: 42
+    name: 'SliderView'
+}
+
+
